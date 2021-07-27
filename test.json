@@ -1,0 +1,1 @@
+{"licenses": [], "info": {}, "images":[], "annotations": [], "categories": [{"supercategory": "beverage", "id": 1, "keypoints": ["mean", "xmin", "x2", "x3", "xmax", "ymin", "y2", "y3", "ymax", "cross"], "name": "text"}]}
