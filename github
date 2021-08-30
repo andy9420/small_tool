@@ -1,5 +1,5 @@
 git add -A
 git add . 
-git commit -m "黑白棋"
+git commit -m "my tool"
 git pull --rebase
 git push -f
